@@ -19,7 +19,6 @@ TECH.STACK
 COMMUNICATION PROTOCOLS
 
     Web      : https://vniverse77.com
-    Telegram : https://t.me/linux_hell
     X        : @Vniverse77
     Reddit   : u/Vniverse_77
 
@@ -35,5 +34,5 @@ Cloning, copying, distributing, or repurposing any part of
 the website is strictly prohibited.
 
 Template requests require explicit written permission.
-Contact: vniverse77@yahoo.com
+Contact: root@vniverse77.com
 
